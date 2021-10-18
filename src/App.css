@@ -1,6 +1,6 @@
 body{
   background-image: linear-gradient(140deg, #9600ff, #aebaf8);
-  height: 700px;
+  min-height: 50vw;
   color: #333;
 
 }
